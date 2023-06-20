@@ -1,5 +1,35 @@
-.img{
+#fondecran img{
+    width:20%;
+    height:20%;
+   margin: 5px;
 
-    height: 50%;
-    width: 50%;
+  
+      }
 }
+#charcuterie{
+column-count: 2;
+ }
+
+#drive h1{
+color: #1f9cc2;
+margin-top: 30px;
+font-size: 36px;
+ }
+ #drive ul{
+font-size: 32px;
+ }
+ #drive ul:hover{
+color: greenyellow;
+border-bottom: 3px solid #1f9cc2;
+   
+ }
+ #charcuterie ul{
+    font-size: 32px;
+ }
+
+ #charcuterie ul:hover{
+    color: red;
+    border-bottom: 3px solid #1f9cc2;
+    
+ }
+ 
